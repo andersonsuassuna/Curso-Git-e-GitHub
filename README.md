@@ -1,4 +1,4 @@
-# Meu PC
+# Curso de Git e GitHub
  Repositório local.
 
- Repositório criado no curso de git e github do Curso em Vídeo.
+ Repositório criado para curso de git e github do Curso em Vídeo.
