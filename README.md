@@ -1,2 +1,4 @@
 # Meu PC
- repositorio local
+ Repositório local.
+
+ Repositório criado no curso de git e github do Curso em Vídeo.
